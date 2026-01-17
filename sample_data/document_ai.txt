@@ -1,0 +1,19 @@
+Artificial Intelligence (AI) refers to the simulation of human
+intelligence in machines that are programmed to think, learn, and make
+decisions. The history of AI dates back to the 1950s when researchers
+first explored the idea of creating machines capable of reasoning like
+humans.
+
+Over the decades, AI has evolved through several waves, including
+symbolic AI, expert systems, machine learning, and deep learning. Modern
+AI systems rely heavily on large datasets, powerful computing resources,
+and advanced algorithms such as neural networks.
+
+Applications of AI are widespread, ranging from natural language
+processing and computer vision to healthcare diagnostics, finance, and
+autonomous vehicles. Despite its benefits, AI also raises ethical
+concerns such as bias, data privacy, transparency, and the impact on
+employment.
+
+As AI continues to advance, responsible development and governance are
+essential to ensure that these technologies benefit society as a whole.

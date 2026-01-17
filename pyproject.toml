@@ -1,0 +1,27 @@
+[project]
+name = "rag-langchain"
+version = "0.1.0"
+description = "RAG system using LangChain for document processing and vector search"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    # Web framework
+    "fastapi",
+    "uvicorn",
+    "starlette",
+    
+    # LangChain core packages
+    "langchain",
+    "langchain-core",
+    "langchain-classic",
+    "langchain-community",
+    "langchain-text-splitters",
+    "langchain-chroma",
+    "langchain-google-genai",
+    
+    # Embeddings
+    "sentence-transformers",
+    
+    # Utilities
+    "python-dotenv",
+]
